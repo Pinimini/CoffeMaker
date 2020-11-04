@@ -1,0 +1,8 @@
+machine/kindOfCoffee.java
+ machine.kindOfCoffee
+machine/currentState.java
+ machine.currentState
+machine/CoffeeMaker.java
+ machine.CoffeeMaker
+machine/CoffeeMachine.java
+ machine.CoffeeMachine
